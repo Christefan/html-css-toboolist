@@ -1,3 +1,4 @@
+/* RESET */
 *{
     box-sizing: border-box;
     margin: 0;
@@ -7,7 +8,7 @@
   body {
     background-color: #f6f8f9;
   }
-  
+  /*HEADER*/
   header {
     height: 70px;
     padding-top: 10px;
@@ -27,7 +28,7 @@
     font-size: 40px;
     font-family: arial;
   }
-  
+  /* MAIN */
   main {
     margin:auto;
     background-color: #FFFFFF;
