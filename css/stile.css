@@ -28,4 +28,109 @@
     font-family: arial;
   }
   
- 
+  main {
+    margin:auto;
+    background-color: #FFFFFF;
+    height: 830px;
+    width: 700px;
+    border-radius: 5px;
+  }
+  
+  /* Pulsanti */
+  .bottoni{
+    padding: 20px 40px;
+  }
+  
+  .pulsante {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 1px solid #ddd;
+  }
+  
+  .task {
+    background-color: rgb(69,171,234);
+    color: #ffffff;
+  }
+  
+  .section {
+    background-color: #ffffff;
+    color: #d7d7d7;
+  }
+  
+  hr {
+    border: 1px solid #f6f8f9;
+  }
+  
+  /* Lista */
+  .lista{
+    margin: 30px 40px;
+  }
+  
+  ul{
+  list-style: none;
+  margin-bottom: 8px;
+  } 
+  li{
+      margin-bottom: 9px;
+  }
+
+  .p-dimensione{
+    font-size: 19px ;
+    font-weight: bold;
+
+  }
+  
+  .cerchio {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 13px;
+    font-size: 10px;
+    text-align: center;
+  }
+  
+  .v {
+    border: 1px solid #2cc6ab;
+    color: #2cc6ab;
+  }
+  
+  .x{
+    border: 1px solid #ff0000;
+    color: #ff0000;
+  }
+  
+  /* Etichette */
+  .etichetta {
+    color: #ffffff;
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+  }
+  
+  .blu {
+    background-color: rgb(69,171,234);
+  }
+  
+  .viola {
+    background-color:rgb(156, 114, 228);
+  }
+  
+  .verde1 {
+    background-color: rgb(100, 192, 169);
+  }
+  
+  .arancione{
+    background-color: rgb(242, 158, 51);
+  }
+  
+  .rosa {
+    background-color: rgb(216, 99, 161);
+  }
+  
+  .verde2 {
+    background-color: rgb(176, 201, 38);
+  }
